@@ -3,15 +3,35 @@
     font-size: 16px;
 }
 
-body{
-    background-color: aqua;
+body {
+    background-color: rgb(87, 57, 255);
 
 }
 
+
 main{
     background-color: aliceblue;
-    width: 500px;
+    width: 560px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.445)
+}
+
+h1 {
+    font-size: 2em;
+    color: rgb(67, 69, 196);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(108, 80, 134);
+}
+
+h3 {
+    font-size: 1.5em;
+    color: rgb(189, 189, 7);
+}
+
+img.lado {
+    float: right;
 }
